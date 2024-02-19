@@ -38,4 +38,5 @@ To be effective, the Community Group expects to coordinate with the following ot
 ## Amendments to this charter
 The group chairs can propose the group adopt an amended charter, editing the text using the Decision Process described below.
 
+https://www.w3.org/community/webdx/
 The decision on whether to adopt the amended charter is made by conducting a 30-days vote on the proposed new charter. The new charter, if approved, takes effect on either the proposed date in the charter itself, or 7 days after the result of the election is announced, whichever is later. A new charter must receive 2/3 of the votes cast in the approval vote to pass. The group may make simple corrections to the charter such as deliverable dates by the regular group decision process rather than this charter amendment process. The group will use the amendment process for any substantive changes to the goals, scope, deliverables, decision process or rules for amending the charter.
